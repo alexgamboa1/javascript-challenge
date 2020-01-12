@@ -1,4 +1,4 @@
-/ Variable Declaration
+// Variable Declaration
 let tbody = d3.select("tbody");
 // From data.js
 var tableData = data;
